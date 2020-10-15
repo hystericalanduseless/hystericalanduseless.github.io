@@ -1,22 +1,35 @@
 ---
 layout: page
-title: About
+title: (・ω<)
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+----------
 
-Celeste is a lightweight Jekyll theme that features a minimalist, content-first design. It places your content center stage and lets your readers view them in a clutter-free environment without visual distractions. It is based on [Poole](https://github.com/poole/poole), the Jekyll butler, by [@mdo](https://twitter.com/mdo).
 
-In addition to using Poole as its foundation, Celeste is also built using the following open-source projects:
 
-* [normalize.css](http://necolas.github.io/normalize.css/), a modern, HTML5-ready alternative to CSS resets.
-* [Font Awesome](https://fontawesome.com/v4.7.0/), the iconic font and CSS toolkit.
-* [Hover.css](http://ianlunn.github.io/Hover/), a collection of CSS3 powered hover effects.
+**hysterical and useless club <del>(incognito mode)</del>**
 
-Celeste is <i class="fa fa-code"></i> with <i class="fa fa-heart"></i> by [@nicoelayda](https://github.com/nicoelayda). Learn more and contribute on [GitHub](https://github.com/nicoelayda/celeste).
+A bunch of semi-derelict drafts and ideas.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/nicoelayda/celeste/issues/new) or [ask me on Twitter](https://twitter.com/nicoelayda).
 
-Thanks for reading!
+
+------
+
+- [<i class="fa fa-wordpress" aria-hidden="true"></i>   Main Site (hystericalanduseless.club)](https://hystericalanduseless.club)
+- [<i class="fa fa-commenting" aria-hidden="true"></i>](https://flanintheface.com/@rosenkreuzer)   <a rel="me" href="https://flanintheface.com/@rosenkreuzer">Mastodon</a>
+- [<i class="fa fa-spotify" aria-hidden="true"></i>   Listening to...](https://open.spotify.com/playlist/37i9dQZEVXcBYolMmEdLr9?si=WZ8PWeYAToKBTTqf2rmC_w)
+- [<i class="fa fa-github-alt" aria-hidden="true"></i>   Code](https://github.com/hystericalanduseless/hystericalanduseless.github.io)
+- [<i class="fa fa-rss-square" aria-hidden="true"></i>   RSS](https://weirdfishes.today/atom.xml)
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+-------
+
+*The theme is adapted from Celeste by [@nicoelayda](https://github.com/nicoelayda). Learn more and contribute on [GitHub](https://github.com/nicoelayda/celeste).
+
